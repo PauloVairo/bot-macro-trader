@@ -1,0 +1,7 @@
+requests
+flask
+pytz
+beautifulsoup4
+selenium
+python-telegram-bot==13.7
+
