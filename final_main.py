@@ -5,8 +5,8 @@ import telegram
 from market_fetcher import coletar_todos_os_dados, gerar_mensagem_mercado
 
 # === CONFIGURAÇÕES DO TELEGRAM ===
-TELEGRAM_TOKEN = "SEU_TOKEN_AQUI"
-TELEGRAM_CHAT_ID = "SEU_CHAT_ID_AQUI"
+TELEGRAM_TOKEN = "8294596491:AAGyzS8sVFhFmR4wOyS__jD_iGBEEjzF-go"
+TELEGRAM_CHAT_ID = "1040590608"
 bot = telegram.Bot(token=TELEGRAM_TOKEN)
 
 # === HORÁRIOS DE ENVIO (horário de Brasília) ===
